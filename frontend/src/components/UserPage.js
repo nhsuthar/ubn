@@ -1,0 +1,1 @@
+// User page component for React application.
